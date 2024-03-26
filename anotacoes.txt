@@ -1,0 +1,17 @@
+11/07 
+Curso localizado : https://www.youtube.com/watch?v=Zwv9qRyVeU4
+09/08/2023 14:07 minuto
+28/11/2023 - 30:13
+07/03/2024 - Reiniciando o curso do 0:00
+08/03/2024 - ok 30:13
+11/03/2024 - ok  . Alguma confusão no entendimento da criação do clone.
+14/03/2024 - ok  dificuldades de atualizar o repositorio local
+                                             - não tinha selecionado o diretorio local para executar os comandos do Git 
+18/03/2024 - 25:57 aprender a criar o branch e a selecionar
+19/03/2024 - concluido o vídeo. Fazer uma revisão e melhorar anotações
+20/03/2024 - terminei em 18:23 
+21/03/2024 - continuar com o vídeo para repassar na memoria
+Novo curso:
+Link: https://www.youtube.com/watch?v=iQn5vZt0iWI&list=PLpaKFn4Q4GMOhOuffvi7VagNib0P325AV
+25/03/2024 , aula 1  e  2
+26/03/2024 , aula 3
