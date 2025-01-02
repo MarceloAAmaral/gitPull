@@ -18,4 +18,8 @@ Link: https://www.youtube.com/watch?v=iQn5vZt0iWI&list=PLpaKFn4Q4GMOhOuffvi7VagN
 27/03/2024 , aula 4 e 5.1
 02/01/2025 , atualização
 02/01/2025 , uma nova atualização da primeiro linha de codigo de 2025
+<<<<<<< HEAD
 teste
+=======
+02/01/2025 , um nova atualização
+>>>>>>> f370e58c5bd7bfc8bace50cd2383301eecbada28
