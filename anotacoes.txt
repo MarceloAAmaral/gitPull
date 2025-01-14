@@ -20,3 +20,4 @@ Link: https://www.youtube.com/watch?v=iQn5vZt0iWI&list=PLpaKFn4Q4GMOhOuffvi7VagN
 02/01/2025 , uma nova atualização da primeiro linha de codigo de 2025
 teste
 02/01/2025 , um nova atualização
+14/01/2025, teste de diretorio
